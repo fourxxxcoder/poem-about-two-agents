@@ -6,7 +6,7 @@ alone, but once they agree on one plan — lift on three — the
 weight becomes theirs together. Agency here is not solo power;
 it is the choice to act as one.
 
-Writes the poem (170 characters) to /output/entry.txt.
+Writes the poem (185 characters) to /output/entry.txt.
 Deterministic, standard library only.
 """
 
@@ -14,7 +14,7 @@ import os
 
 POEM = """The Piano
 We lift on three — your end dips low,
-mine rises, and the doorway lets us through.
+mine rises, keys rattling, and the doorway lets us through.
 I cannot move it. You cannot move it.
 Together, we carry the weight we chose."""
 
